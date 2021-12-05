@@ -1,11 +1,11 @@
 {
-    "name": "Amalser ",
-    "description": "Amalser is the Modified Version of WhatsAsena, Made By @Amal-ser with Baileys.",
+    "name": "Lisa ",
+    "description": "Lisa is the Modified Version of WhatsAsena, Made By @Amal-ser with Baileys.",
     "logo": "https://i.imgur.com/yCYYyEJ.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Amal-ser/Amalser",
-    "website":   "https://github.com/farhan-dqz/Julie-Mwol",
-    "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
+    "repository": "https://github.com/MJMODS/MJ-SIR",
+    "website":   "https://github.com/MJMODS/MJ-SIR",
+    "success_url": "https://github.com/MJMODS/MJ-SIR",
     "stack": "container",
     "env": {
         "AMALSER_CODE": {
